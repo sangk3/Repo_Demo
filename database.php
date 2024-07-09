@@ -10,5 +10,5 @@ function connection(){
 }
 ?>
 
-# Thêm ngoặc đóng php và thêm pass cho root là 1234
-# Tôi đã chỉnh sửa việc kết nối dễ dàng hơn
+# Thêm ngoặc đóng php và thêm pass cho root là 1234 
+# đây là thay đổi theo tài khoản phpMyAdmin của tôi ae tự thay theo tài khoản và mật khẩu của ae
